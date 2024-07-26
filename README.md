@@ -22,9 +22,39 @@ Welcome to WeatherApp, an elegant and intuitive weather application built with E
    npx expo start
    ```
 
-Development build: Learn more
-Android emulator: Setup guide
-iOS simulator: Setup guide
-Expo Go: Download Expo Go
+## Project Structure 📁
+
+```
+WeatherApp/
+├── .dist/
+├── .expo/
+├── .vscode/
+├── app/
+│   ├── _layout.tsx
+│   ├── index.tsx
+│   ├── weather.tsx
+├── assets/
+├── node_modules/
+├── .gitignore
+├── app.json
+├── babel.config.js
+├── expo-env.d.ts
+├── package-lock.json
+├── package.json
+├── README.md
+├── tsconfig.json
+```
+
+## Technologies Used 🛠
+
+```
+- Expo
+- React Native
+- NativeWind
+- TypeScript
+- Axios
+- Chart.js
+- OpenWeatherMap API
+```
 
 ## Happy Coding! 🚀
