@@ -1,21 +1,26 @@
-##WeatherApp 🌤️
+# WeatherApp 🌤️
+
 Welcome to WeatherApp, an elegant and intuitive weather application built with Expo, React Native, NativeWind, and TypeScript. This app provides real-time weather updates with a visually appealing and user-friendly interface.
 
-##Features
-📊 Real-time weather updates
-🌡️ Temperature, humidity, and other weather details
-🗓️ 7-day weather forecast
-📉 Beautiful charts for temperature trends
-🌆 High-quality background images and icons
-🌍 Support for multiple locations
-Installation
-Clone the repository:
+## Features
 
-bash
-Copy code
-git clone https://github.com/si-mrami/WeatherApp.git
-cd WeatherApp
-Install dependencies:
+- 📊 Real-time weather updates
+- 🌡️ Temperature, humidity, and other weather details
+- 🗓️ 7-day weather forecast
+- 📉 Beautiful charts for temperature trends
+- 🌆 High-quality background images and icons
+- 🌍 Support for multiple locations
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/si-mrami/WeatherApp.git
+   cd WeatherApp
+   ```
+
+   Install dependencies:
 
 bash
 Copy code
@@ -32,5 +37,4 @@ Development build: Learn more
 Android emulator: Setup guide
 iOS simulator: Setup guide
 Expo Go: Download Expo Go
-
-##Happy Coding! 🚀
+Happy Coding! 🚀
