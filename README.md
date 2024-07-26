@@ -11,30 +11,20 @@ Welcome to WeatherApp, an elegant and intuitive weather application built with E
 - 🌆 High-quality background images and icons
 - 🌍 Support for multiple locations
 
-## Installation
+## Installation and running the app 🚀
 
 1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/si-mrami/WeatherApp.git
    cd WeatherApp
+   npm install
+   npx expo start
    ```
-
-   Install dependencies:
-
-bash
-Copy code
-npm install
-Start the app:
-
-bash
-Copy code
-npx expo start
-Running on Different Platforms
-You can run the app on various platforms:
 
 Development build: Learn more
 Android emulator: Setup guide
 iOS simulator: Setup guide
 Expo Go: Download Expo Go
-Happy Coding! 🚀
+
+## Happy Coding! 🚀
